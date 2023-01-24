@@ -1,19 +1,16 @@
 ### 
 
 <div align="center">
+  | ![NewProjectF Github Stats](https://github-readme-stats.vercel.app/api?username=NewProjectF&show_icons=true&theme=radical&locale=es) | ![Among Us Dancing](https://github.com/NewProjectF/NewProjectF/blob/main/Resources/AmongUs_dancing.gif) |
+  |-|-|
 
-| ![NewProjectF Github Stats](https://github-readme-stats.vercel.app/api?username=NewProjectF&show_icons=true&theme=radical&locale=es) | ![Among Us Dancing](https://github.com/NewProjectF/NewProjectF/blob/main/Resources/AmongUs_dancing.gif) |
-|-|-|
-
-| ![NewProjectF Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewProjectF&layout=compact&theme=radical&card_width=667em&locale=es) |
-|-|
-
+  | ![NewProjectF Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewProjectF&layout=compact&theme=radical&card_width=667em&locale=es) |
+  |-|
 </div>
 
 
 </br>
 <div align="center">
-  
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -35,5 +32,7 @@
   
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
 </div>
+
+
+![snake gif](https://github.com/NewProjectF/NewProjectF/blob/output/github-contribution-grid-snake.gif)
