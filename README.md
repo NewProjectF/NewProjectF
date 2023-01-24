@@ -1,5 +1,8 @@
 ### 
 
+<!-- Estadísticas de GitHub -->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+
 <div align="center">
   
 | ![Estadísticas de NewProjectF Github](https://github-readme-stats.vercel.app/api?username=NewProjectF&show_icons=true&theme=radical&locale=es) | ![Bailando entre nosotros](https://github.com/NewProjectF/NewProjectF/blob/main/Resources/AmongUs_dancing.gif) |
@@ -10,34 +13,46 @@
   
 </div>
 
+<!-- FIN Estadísticas de GitHub -->
+<!-- Animación Serpiente -->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
 
-</br>
-<div align="center">
-  <img align="center" alt="Kotlin" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Php" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Java" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Js" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nodejs" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sass" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="MySQL" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Firebase" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Wordpress" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Canva" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="Figma" height="3%" width="4%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
-
-
-</br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NewProjectF/NewProjectF/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NewProjectF/NewProjectF/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" width="744em" src="https://raw.githubusercontent.com/NewProjectF/NewProjectF/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" width="775em" src="https://raw.githubusercontent.com/NewProjectF/NewProjectF/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<!-- FIN Animación Serpiente -->
+<!-- Lenguajes de programación utilizados -->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+
+* * *
+
+<div align="center">
+  <img align="center" alt="Kotlin" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">&nbsp;
+  <img align="center" alt="Php" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">&nbsp;
+  <img align="center" alt="Java" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="Spring" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
+  <img align="center" alt="Js" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
+  <img align="center" alt="Ts" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
+  <img align="center" alt="React" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
+  <img align="center" alt="Nodejs" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">&nbsp;
+  <img align="center" alt="HTML" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
+  <img align="center" alt="CSS" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" alt="Sass" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">&nbsp;
+  <img align="center" alt="MySQL" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
+  <img align="center" alt="MongoDB" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
+  <img align="center" alt="Firebase" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">&nbsp;
+  <img align="center" alt="Wordpress" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">&nbsp;
+  <img align="center" alt="Canva" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">&nbsp;
+  <img align="center" alt="Figma" height="2%" width="3%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+
+* * *
+
+<!-- FIN Lenguajes de programación utilizados -->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
+
