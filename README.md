@@ -1,14 +1,17 @@
-## 👋 ¡Bienvenido a mi perfil de GitHub!
+<!-- Introducción a mi Github -->
+<!-- ----------------------------------------------------------------------------------------------------------- -->
 
-### 👨‍🎓 Sobre mí
+# 👋 ¡Bienvenido a mi perfil de GitHub!
 
-Estudiante de Programación y Ciberseguridad.
+Programación y Ciberseguridad.
+
+## 🤖 Sobre mí
 
 Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me llevan a explorar nuevas herramientas y a adaptarme a las aptitudes tecnicas de cada proyecto.
 
 </br>
 
-
+<!-- FIN Introducción a mi Github -->
 <!-- Estadísticas de GitHub -->
 <!-- ----------------------------------------------------------------------------------------------------------- -->
 
@@ -65,6 +68,8 @@ Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me lle
 <!-- FIN Lenguajes de programación utilizados -->
 <!-- Enlaces -->
 <!-- ----------------------------------------------------------------------------------------------------------- -->
+
+## 🚀 Enlaces
 
 [![Repositorio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://NewProjectF.github.io/Portfolio/ )
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
