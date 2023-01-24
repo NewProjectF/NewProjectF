@@ -1,4 +1,13 @@
-### 
+## 👋 ¡Bienvenido a mi perfil de GitHub!
+
+### 👨‍🎓 Sobre mí
+
+Estudiante de Programación y Ciberseguridad.
+
+Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me llevan a explorar nuevas herramientas y a adaptarme a las aptitudes tecnicas de cada proyecto.
+
+</br>
+
 
 <!-- Estadísticas de GitHub -->
 <!-- ----------------------------------------------------------------------------------------------------------- -->
