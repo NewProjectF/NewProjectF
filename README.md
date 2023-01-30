@@ -5,6 +5,8 @@
 
 Programación y Ciberseguridad.
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=&color=D93A7C&center=falso&vCenter=falso&multiline=true&repeat=verdadero&width=800&lines=Primero+aprende+inform%C3%A1tica+y+toda+la+teor%C3%ADa.+Despu%C3%A9s+desarrolla+un+estilo+de+programaci%C3%B3n.;Entonces%2C+olv%C3%ADdalo+todo+y+hackea.)
+
 ## 🤖 Sobre mí
 
 Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me llevan a explorar nuevas herramientas y a adaptarme a las aptitudes tecnicas de cada proyecto.
@@ -72,6 +74,6 @@ Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me lle
 ## 🚀 Enlaces
 
 [![Repositorio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://NewProjectF.github.io/Portfolio/ )
-<!-- [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NewProjectF)
+<!-- [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 
