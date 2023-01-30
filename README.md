@@ -5,7 +5,7 @@
 
 Programación y Ciberseguridad.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=&color=D93A7C&center=falso&vCenter=falso&multiline=true&repeat=verdadero&width=800&lines=Primero+aprende+inform%C3%A1tica+y+toda+la+teor%C3%ADa.+Despu%C3%A9s+desarrolla+un+estilo+de+programaci%C3%B3n.;Entonces%2C+olv%C3%ADdalo+todo+y+hackea.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=D93A7C&center=&vCenter=&multiline=true&repeat=verdadero&width=800&lines=Primero+aprende+inform%C3%A1tica+y+toda+la+teor%C3%ADa.+Despu%C3%A9s+desarrolla+un+estilo+de+programaci%C3%B3n.;Entonces%2C+olv%C3%ADdalo+todo+y+hackea.)](https://git.io/typing-svg)
 
 ## 🤖 Sobre mí
 
