@@ -72,6 +72,6 @@ Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me lle
 ## 🚀 Enlaces
 
 [![Repositorio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://NewProjectF.github.io/Portfolio/ )
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<!-- [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NewProjectF)
 
