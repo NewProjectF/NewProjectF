@@ -24,10 +24,10 @@ Mi compromiso continuo por el aprendizaje y la pasión por la tecnología me lle
 
 <div align="center">
   
-| ![Estadísticas de NewProjectF Github](https://github-readme-stats.vercel.app/api?username=NewProjectF&show_icons=true&theme=radical&card_width=495em&locale=es) | ![AmongUs Bailando](https://github.com/NewProjectF/NewProjectF/blob/main/Resources/AmongUs_dancing.gif) |
+| ![Estadísticas de NewProjectF Github](https://github-readme-stats.vercel.app/api?username=NewProjectF&show_icons=true&theme=radical&card_width=500em&locale=es) | ![AmongUs Bailando](https://github.com/NewProjectF/NewProjectF/blob/main/Resources/AmongUs_dancing.gif) |
 |-|-|
   
-| ![Idiomas principales de NewProjectF](https://github-readme-stats.vercel.app/api/top-langs/?username=NewProjectF&layout=compact&theme=radical&card_width=667em&locale=es) |
+| ![Idiomas principales de NewProjectF](https://github-readme-stats.vercel.app/api/top-langs/?username=NewProjectF&layout=compact&theme=radical&card_width=720em&locale=es) |
 |-|
   
 </div>
